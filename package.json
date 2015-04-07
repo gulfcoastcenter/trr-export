@@ -1,0 +1,12 @@
+{
+  "name": "cmhc-export",
+  "version": "1.0.0",
+  "description": "Export data from CMHC MIS systems",
+  "author": "Tim Markello",
+  "license": "MIT",
+  "devDependencies": {
+    "csvjson": "^1.0.3",
+    "gulp": "^3.8.10",
+    "lodash": "^3.1.0"
+  }
+}
